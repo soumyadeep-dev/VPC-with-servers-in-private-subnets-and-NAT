@@ -1,3 +1,5 @@
+https://images.app.goo.gl/Gs3RG14aCPCy8hay6
+
 # AWS VPC Deployment Guide
 
 ## Architectural Overview
